@@ -21,19 +21,19 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 ## Teaching Experience
 
 - **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**,<br>
-lectured by Emanuel Conan & Liam Kneafsey<br>
-Head Teaching Assistant<br>
+1st year UG module, lectured by Emanuel Conan & Liam Kneafsey<br>
+<em>Head Teaching Assistant</em>
 
 - **2022/2023: POU11011, POU11012 Introduction to Political Science A&B**,<br>
-lectured by Liam Kneafsey <br>
-Head Teaching Assistant<br>
+1st year UG module, lectured by Liam Kneafsey <br>
+<em>Head Teaching Assistant</em>, awarded the Dermot McAleese Award for outstanding commitment to teaching and learning in Trinity College Dublin
 
 - **2021/2022: POU22021, POU22022 International Relations A&B**,<br>
-lectured by William Phelan<br>
-Teaching Assistant<br>
+2st year UG module, lectured by William Phelan<br>
+<em>Teaching Assistant</em>
 
 - **2020/2021: POU11011, POU11012 Introduction to Political Science A&B**,<br>
-lectured by Emanuel Conan & Liam Kneafsey<br>
-Teaching Assistant
+1st year UG module, lectured by Emanuel Conan & Liam Kneafsey<br>
+<em>Teaching Assistant</em>
 
 #{% include_relative _includes/services.md %}
