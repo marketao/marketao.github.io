@@ -14,10 +14,7 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 - Middle Eastern Politics and Societies: Israel/Palestine, Druzes
 - Research Methodology: Quantitative and Qualitative (Fieldwork and Interviewing)
 
-## Research Papers
-- **Odlová, Markéta. "The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens"** WORKING PAPER
-- **Research interests:**
-- **Research interests:**
+{% include_relative _includes/publications.md %}
 
 ## Teaching Experience
 - **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**,<br>
@@ -33,12 +30,8 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 1st year UG module, lectured by Emanuel Coman & Liam Kneafsey, Trinity College Dublin<br>
   - <em>Teaching Assistant</em>
 
-# Service 
 {% if false %}
   {% include_relative _includes/services.md %}
 {% endif %}
 
-# Publications with pictures 
-{% if false %}
-  {% include_relative _includes/publications.md %}
-{% endif %}
+

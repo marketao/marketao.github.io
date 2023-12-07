@@ -1,18 +1,14 @@
 main:
 
-  - title: "The Effects of Gendered and Ethnicised Conscription on Political and Civic Life:
-The Case of Israeli Circassian and Druze Citizens"
+  - title: "The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens"
+    authors: Markéta Odlová
+    conference_short: WORKING PAPER
+    image: ./assets/img/teaser_example_1.png
+  - title: "Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use"
     authors: Markéta Odlová
     conference_short: WORKING PAPER
     image: ./assets/img/teaser_example_2.png
-
-  - title: "ULALA"
+  - title: "The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy"
     authors: Markéta Odlová
     conference_short: WORKING PAPER
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_example_1.png
