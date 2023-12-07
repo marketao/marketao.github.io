@@ -9,7 +9,7 @@
       <div class="pub-row" style="display: flex; align-items: flex-start;"> <!-- align-items: flex-start ensures top alignment -->
         <div class="col-sm-3 abbr" style="position: relative; padding-right: 5px; padding-left: 5px;">
           {% if link.image %} 
-            <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="max-width: 85%; height: auto;">
+            <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="max-width: 80%; height: auto;">
           {% endif %}
           {% if link.conference_short %} 
             <abbr class="badge">{{ link.conference_short }}</abbr>
