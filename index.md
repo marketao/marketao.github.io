@@ -10,19 +10,30 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 
 #### Research Interests
 
-- **Civil-military relations**
-- **Gender and ethnic relations**
-- **Colonial legacies**
-- **Middle-Eastern politics and societies:** Israel/Palestine, Druzes**
-- **Research methodology:** quantitative and qualitative (fieldwork and interviewing)
+- **Civil-Military Relations**
+- **Gender and Ethnic Relations**
+- **Colonial Legacies**
+- **Middle Eastern Politics and Societies:** Israel/Palestine, Druzes
+- **Research Methodology:** Quantitative and Qualitative (Fieldwork and Interviewing)
 
 {% include_relative _includes/publications.md %}
 
 ## Teaching
 
-- **[2023/2024]** Introduction to Political Science A&B (Head Teaching Assistant)
-- **[2022/2023]** Introduction to Political Science A&B (Head Teaching Assistant)
-- **[2021/2022]** International Relations (Teaching Assistant)
-- **[2020/2021]** Introduction to Political Science A&B (Teaching Assistant)
+- **[2023/2024]**<br>
+  POU11011, POU11012 Introduction to Political Science A&B<br>
+  Head Teaching Assistant<br>
+  ---
+- **[2022/2023]**<br>
+  POU11011, POU11012 Introduction to Political Science A&B<br>
+  Head Teaching Assistant<br>
+  ---
+- **[2021/2022]**<br>
+  POU22021, POU22022 International Relations A&B<br>
+  Teaching Assistant<br>
+  ---
+- **[2020/2021]**<br>
+  POU11011, POU11012 Introduction to Political Science A&B<br>
+  Teaching Assistant
 
 #{% include_relative _includes/services.md %}
