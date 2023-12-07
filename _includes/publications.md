@@ -5,7 +5,7 @@
 
     {% for link in site.data.publications.main %}
 
-    <li style="margin-bottom: 2px;"> <!-- Adjust the margin-bottom to control the gap between papers -->
+    <li style="margin-bottom: 1px;"> <!-- Adjust the margin-bottom to control the gap between papers -->
       <div class="pub-row" style="display: flex; align-items: flex-start;"> <!-- align-items: flex-start ensures top alignment -->
         <div class="col-sm-3 abbr" style="position: relative; padding-right: 5px; padding-left: 5px;">
           {% if link.image %} 
@@ -17,8 +17,8 @@
         </div>
         <div class="col-sm-9" style="position: relative; padding-right: 10px; padding-left: 5px;">
           <div>
-            <div class="title" style="margin-bottom: 0;"><strong>{{ link.title }}</strong></div>
-            <div class="author">{{ link.authors }}</div>
+            <div class="title" style="margin-bottom: 1px;"><strong>{{ link.title }}</strong></div>
+            <div class="author" style="margin-bottom: 1px;">{{ link.authors }}</div>
             <div class="periodical"><em>{{ link.conference }}</em></div>
             <div class="links">
               {% if link.pdf %} 
