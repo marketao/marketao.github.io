@@ -1,12 +1,12 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="research-papers" style="margin: 2px 0px -15px;">Research Papers</h2>
 
 <div class="publications">
   <ol class="bibliography">
 
     {% for link in site.data.publications.main %}
 
-    <li style="margin-bottom: 8px;"> <!-- Adjust the margin-bottom to control the gap between papers -->
-      <div class="pub-row" style="display: flex; align-items: center;">
+    <li style="margin-bottom: 10px;"> <!-- Adjust the margin-bottom to control the gap between papers -->
+      <div class="pub-row" style="display: flex; align-items: flex-start;"> <!-- align-items: flex-start ensures top alignment -->
         <div class="col-sm-3 abbr" style="position: relative; padding-right: 5px; padding-left: 5px;">
           {% if link.image %} 
             <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="max-width: 90%; height: auto;">
