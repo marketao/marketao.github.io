@@ -20,20 +20,13 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 
 ## Teaching
 
-- **[2023/2024]**<br>
-  POU11011, POU11012 Introduction to Political Science A&B<br>
+- **[2023/2024]** POU11011, POU11012 Introduction to Political Science A&B<br>
   Head Teaching Assistant<br>
-  ---
-- **[2022/2023]**<br>
-  POU11011, POU11012 Introduction to Political Science A&B<br>
+- **[2022/2023]** POU11011, POU11012 Introduction to Political Science A&B<br>
   Head Teaching Assistant<br>
-  ---
-- **[2021/2022]**<br>
-  POU22021, POU22022 International Relations A&B<br>
+- **[2021/2022]** POU22021, POU22022 International Relations A&B<br>
   Teaching Assistant<br>
-  ---
-- **[2020/2021]**<br>
-  POU11011, POU11012 Introduction to Political Science A&B<br>
+- **[2020/2021]** POU11011, POU11012 Introduction to Political Science A&B<br>
   Teaching Assistant
 
 #{% include_relative _includes/services.md %}
