@@ -7,15 +7,15 @@
 
     <li>
       <div class="pub-row">
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <div class="col-sm-3 abbr" style="position: relative; padding-right: 5px; padding-left: 5px;">
           {% if link.image %} 
-	<img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="max-width: 60%; height: auto;">
+            <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="max-width: 80%; height: auto;">
           {% endif %}
           {% if link.conference_short %} 
             <abbr class="badge">{{ link.conference_short }}</abbr>
           {% endif %}
         </div>
-        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
           <div class="title"><strong>{{ link.title }}</strong></div>
           <div class="author">{{ link.authors }}</div>
           <div class="periodical"><em>{{ link.conference }}</em></div>
