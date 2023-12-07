@@ -6,9 +6,9 @@ layout: homepage
 
 I am a 4th year PhD candidate in Political Science at [Trinity College Dublin](http://tcd.ie), Ireland. I hold an MA in International Relations from [Charles University in Prague](http://cuni.cz), and a BA in Political Science from [Palacký University in Olomouc](http://upol.cz).
 
-My research explores the intersections of civil-military relations, ethnic relations, gender relations, and colonialism. In my dissertation, <em>Essays on the Impact of Conscription on Marginalized Groups</em>, I investigate the determinants of ethnically selective conscription and explore how military institutions influence citizenship and political and civic engagement of ethnic minorities and women.
+My research explores the intersections of civil-military relations, ethnic relations, gender relations, and colonialism. In my dissertation, <em>Essays on the Impact of Conscription on Marginalized Groups</em>, I investigate the determinants of ethnically selective conscription and explore how military institutions influence citizenship and political and civic engagement of ethnic minorities and women. To explore this, I use both a global comparative approach and a case study of Israel/Palestine, employing a mixed methods approach that includes original fieldwork data collected in 2023.
 
-More information on my research and teaching experience can be found below, or in my [CV](assets/files/curriculum_vitae.pdf).
+More information on my research and teaching experience is below, or in my [CV](assets/files/curriculum_vitae.pdf).
 
 ## Research Interests
 
