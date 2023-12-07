@@ -11,9 +11,10 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 #### Research Interests
 
 - **Civil-military relations and norms**
-- **Gender and ethnic relations and policies**
-- **Israel/Palestine, the Druze community**
-- **Research methodology:** qualitative (fieldwork, interviews) and quantitative
+- **Gender and ethnic relations**
+- **Legacies of colonialism**
+- **Israel/Palestine, the Israeli Druze community**
+- **Research methodology** (quantitative and qualitative: fieldwork and interviewing)
 
 {% include_relative _includes/publications.md %}
 
