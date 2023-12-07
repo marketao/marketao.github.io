@@ -1,4 +1,4 @@
-<h2 id="research-papers" style="margin: 2px 0px -15px;">Research Papers</h2>
+<h2 id="research-papers" style="margin: 2px 0px -10px;">Research Papers</h2>
 
 <div class="publications">
   <ol class="bibliography">
@@ -15,10 +15,10 @@
             <abbr class="badge">{{ link.conference_short }}</abbr>
           {% endif %}
         </div>
-        <div class="col-sm-9" style="position: relative; padding-right: 10px; padding-left: 10px;">
+        <div class="col-sm-9" style="position: relative; padding-right: 10px; padding-left: 5px;">
           <div>
-            <div class="title"><strong>{{ link.title }}</strong></div>
-            <div class="author">{{ link.authors }}</div>
+            <div class="title" style="margin-bottom: 2px;"><strong>{{ link.title }}</strong></div>
+            <div class="author" style="margin-bottom: 2px;">{{ link.authors }}</div>
             <div class="periodical"><em>{{ link.conference }}</em></div>
             <div class="links">
               {% if link.pdf %} 
