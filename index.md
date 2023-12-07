@@ -21,8 +21,7 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 - Odlová, Markéta. "The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy" **(WORKING PAPER)**
 
 ## Teaching Experience
-- **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**
-  - 1st year UG module, lectured by Emanuel Coman & Liam Kneafsey, Department of Political Science, Trinity College Dublin
+- **2023/2024: POU11011, POU11012 Introduction to Political Science A&B** 1st year UG module, lectured by Emanuel Coman & Liam Kneafsey, Department of Political Science, Trinity College Dublin
   - <em>Head Teaching Assistant</em>
 - **2022/2023: POU11011, POU11012 Introduction to Political Science A&B**
   - 1st year UG module, lectured by Liam Kneafsey, Department of Political Science, Trinity College Dublin
