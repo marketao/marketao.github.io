@@ -8,13 +8,6 @@ I am a 4th year PhD candidate at the Department of Political Science at <a href=
 I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my work, research and teaching experience can be found in my [CV](assets/files/curriculum_vitae.pdf).
 
 **Research interests:**
-- Civil-Military Relations
-- Gender and Ethnic Relations
-- Colonial Legacies
-- Middle Eastern Politics and Societies: Israel/Palestine, Druzes
-- Research Methodology: Quantitative and Qualitative (Fieldwork and Interviewing)
-
-#### Research Interests
 - **Civil-Military Relations**
 - **Gender and Ethnic Relations**
 - **Colonial Legacies**
