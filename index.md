@@ -18,15 +18,22 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 
 {% include_relative _includes/publications.md %}
 
-## Teaching
+## Teaching Experience
 
-- **[2023/2024]** POU11011, POU11012 Introduction to Political Science A&B<br>
-  Head Teaching Assistant<br>
-- **[2022/2023]** POU11011, POU11012 Introduction to Political Science A&B<br>
-  Head Teaching Assistant<br>
-- **[2021/2022]** POU22021, POU22022 International Relations A&B<br>
-  Teaching Assistant<br>
-- **[2020/2021]** POU11011, POU11012 Introduction to Political Science A&B<br>
-  Teaching Assistant
+- **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**,<br>
+lectured by Emanuel Conan & Liam Kneafsey<br>
+Head Teaching Assistant<br>
+
+- **2022/2023: POU11011, POU11012 Introduction to Political Science A&B**,<br>
+lectured by Liam Kneafsey <br>
+Head Teaching Assistant<br>
+
+- **2021/2022: POU22021, POU22022 International Relations A&B**,<br>
+lectured by William Phelan<br>
+Teaching Assistant<br>
+
+- **2020/2021: POU11011, POU11012 Introduction to Political Science A&B**,<br>
+lectured by Emanuel Conan & Liam Kneafsey<br>
+Teaching Assistant
 
 #{% include_relative _includes/services.md %}
