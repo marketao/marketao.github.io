@@ -5,7 +5,7 @@
 
     {% for link in site.data.publications.main %}
 
-    <li style="margin-bottom: 10px;"> <!-- Adjust the margin-bottom to control the gap between papers -->
+    <li style="margin-bottom: 7px;"> <!-- Adjust the margin-bottom to control the gap between papers -->
       <div class="pub-row" style="display: flex; align-items: flex-start;"> <!-- align-items: flex-start ensures top alignment -->
         <div class="col-sm-3 abbr" style="position: relative; padding-right: 5px; padding-left: 5px;">
           {% if link.image %} 
