@@ -15,18 +15,10 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 - Research Methodology: Quantitative and Qualitative (Fieldwork and Interviewing)
 
 ## Research Papers
-- Odlová, Markéta. **"The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens"** (<span style="color: black;">WORKING PAPER</span>)
-- Odlová, Markéta. **"Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use"** (<span style="color: black;">WORKING PAPER</span>)
-- Odlová, Markéta. **"The Impact of Conscription on Women’s Citizenship: the Case of Finland and Sweden"** (<span style="color: black;">WORKING PAPER</span>)
-- Odlová, Markéta. **"The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy"** (<span style="color: black;">WORKING PAPER</span>)
-
-## Research Papers
-- **"The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens"**
-  - Authors: Odlová, Markéta
-  - Status: work in progress
-- Odlová, Markéta. "Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use"** (<span style="color: black;">WORKING PAPER</span>)
-- **"The Impact of Conscription on Women’s Citizenship: the Case of Finland and Sweden"** (WORKING PAPER)
-- **"The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy"** (<span style="color: black;">WORKING PAPER</span>)
+- Odlová, Markéta. "The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens" **(WORKING PAPER)**
+- Odlová, Markéta. "Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use" **(WORKING PAPER)**
+- Odlová, Markéta. "The Impact of Conscription on Women’s Citizenship: the Case of Finland and Sweden" **(WORKING PAPER)**
+- Odlová, Markéta. "The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy" **(WORKING PAPER)**
 
 ## Teaching Experience
 - **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**,<br>
