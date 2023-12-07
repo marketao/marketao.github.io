@@ -2,14 +2,12 @@
 layout: homepage
 ---
 
-## About
-
+## Hello and welcome!
 I am a 4th year PhD candidate at the Department of Political Science at <a href="http://tcd.ie" target="_blank">Trinity College Dublin</a>. My research focuses on the interaction between civil-military relations, ethnicity, gender, and colonialism. In my dissertation, <em>Essays on the Impact of Conscription on Marginalized Groups</em>, I investigate the determinants of ethnically selective conscription and explore the impact of conscription on citizenship and political and civic engagement of ethnic minorities and women. I employ both a global comparative analysis and a case study of Israel/Palestine. This involves a mixed methods approach, including original interview data I collected during fieldwork in 2023.
 
 I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my work, research and teaching experience can be found in my [CV](assets/files/curriculum_vitae.pdf).
 
 #### Research Interests
-
 - **Civil-Military Relations**
 - **Gender and Ethnic Relations**
 - **Colonial Legacies**
@@ -19,7 +17,6 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 {% include_relative _includes/publications.md %}
 
 ## Teaching Experience
-
 - **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**,<br>
 1st year UG module, lectured by Emanuel Coman & Liam Kneafsey, Trinity College Dublin<br>
   - <em>Head Teaching Assistant</em>
