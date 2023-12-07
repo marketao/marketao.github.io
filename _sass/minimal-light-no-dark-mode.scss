@@ -1,6 +1,8 @@
 .pub-row {
   display: flex; 
-  align-items: center;}
+  align-items: center;
+  margin-bottom: 10px; 
+}
 
 .social-icons a{
   display:inline-block;
@@ -170,7 +172,7 @@ papertitle {
       .image.avatar img {
         border-radius: 100%;
         width: 45%;
-        padding: 15px;
+        padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -184,24 +186,24 @@ papertitle {
 h3, h4, h5, h6 {
   font-weight: 600;
   color:#043361;
-  margin:0 0 15px;
+  margin:0 0 10px;
 }
 
 h1 {
   font-weight: 500;
   color:#043361;
-  margin:0 0 15px;
+  margin:0 0px 10 px;
 }
 
 h2 {
   color:#043361;
   font-weight: 500;
-  margin:2px 0px 15px;
+  margin:2px 0px 10px;
   font-size: 157%;
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 15px;
+  margin:0 0 10px;
 }
 
 h1, h2, h3 {
@@ -240,7 +242,7 @@ a:hover small {
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
-  padding:0 0 0 15px;
+  padding:0 0 0 20px;
   font-style:italic;
 }
 
@@ -353,10 +355,11 @@ header ul a strong {
 }
 
 section {
-  width:650px;
-  float:right;
-  padding-top:4.0em;
-  padding-bottom:50px;
+  width: 650px;
+  float: right;
+  padding-top: 4.0em;
+  padding-bottom: 50px;
+  margin-bottom: 10px; 
 }
 
 small {
@@ -367,7 +370,7 @@ hr {
   border:0;
   background:#e5e5e5;
   height:1px;
-  margin:0 0 15px;
+  margin:0 0 20px;
 }
 
 footer {
@@ -404,8 +407,8 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:15px 0;
-    margin:0 0 15px;
+    padding:10px 0;
+    margin:0 0 20px;
   }
 
   header a small {
