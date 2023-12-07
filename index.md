@@ -20,9 +20,9 @@ More information on my research and teaching is below, or in my [CV](assets/file
 
 ## Teaching
 
-- **[2023/2024]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[2022/2023]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[2021/2022]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[2020/2021]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[2023/2024]** Introduction to Political Science A&B (Head Teaching Assistant)
+- **[2022/2023]** Introduction to Political Science A&B (Head Teaching Assistant)
+- **[2021/2022]** International Relations (Teaching Assistant)
+- **[2020/2021]** Introduction to Political Science A&B (Teaching Assistant)
 
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
