@@ -184,13 +184,13 @@ papertitle {
 h3, h4, h5, h6 {
   font-weight: 600;
   color:#043361;
-  margin:0 0 20px;
+  margin:0 0 15px;
 }
 
 h1 {
   font-weight: 500;
   color:#043361;
-  margin:0 0 20px;
+  margin:0 0 15px;
 }
 
 h2 {
@@ -515,32 +515,4 @@ footer {
   margin-left: 0px;
   display:none;
   font-family: monospace;
-}
-
-
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #20212b;
-        color: #dadbdf;
-    }
-
-    autocolor{
-      color:#dadbdf;
-    }
-
-    lightonly {
-      visibility: hidden;
-    }
-
-    darkonly {
-      visibility: visible;
-    }
-
-    papertitle {
-      color:#eeeff0;
-    }
-}
-
-p {
-  margin-bottom: 6px; 
 }
