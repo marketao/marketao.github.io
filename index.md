@@ -15,10 +15,10 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 - Research Methodology: Quantitative and Qualitative (Fieldwork and Interviewing)
 
 ## Research Papers
-- <span style="color: red;">WORKING PAPER</span>Odlová, Markéta. "The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens"
-- <span style="color: red;">WORKING PAPER</span>Odlová, Markéta. "Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use"
-- <span style="color: red;">WORKING PAPER</span>Odlová, Markéta. "The Impact of Conscription on Women’s Citizenship: the Case of Finland and Sweden"
-- <span style="color: red;">WORKING PAPER</span>Odlová, Markéta. "The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy"
+- <span style="color: blue;">WORKING PAPER</span> Odlová, Markéta. **"The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens"**
+- <span style="color: blue;">WORKING PAPER</span> Odlová, Markéta. **"Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use"**
+- <span style="color: blue;">WORKING PAPER</span> Odlová, Markéta. **"The Impact of Conscription on Women’s Citizenship: the Case of Finland and Sweden"**
+- <span style="color: blue;">WORKING PAPER</span> Odlová, Markéta. **"The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy"**
 
 ## Teaching Experience
 - **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**,<br>
