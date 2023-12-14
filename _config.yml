@@ -14,8 +14,11 @@ canonical: https://marketao.github.io
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
+  target: "_blank"
 linkedin: https://www.linkedin.com/in/marketaodlova/
+  target: "_blank"
 twitter: https://twitter.com/MarketaOdlova/
+  target: "_blank"
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
