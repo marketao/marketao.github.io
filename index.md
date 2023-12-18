@@ -12,7 +12,7 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 - Gender and Ethnic Relations
 - Colonial Legacies
 - Middle Eastern Politics and Societies: Israel/Palestine, Druzes
-- Research Methodology: Quantitative and Qualitative (Fieldwork and Interviewing)
+- Research Methods: Quantitative and Qualitative, Fieldwork, Interviewing
 
 ## Research Papers
 - Odlová, Markéta. "The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens" **(WORKING PAPER)**
