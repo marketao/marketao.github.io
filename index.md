@@ -7,7 +7,8 @@ I am a 4th year PhD candidate at the <a href="https://www.tcd.ie/Political_Scien
 
 I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my work, research and teaching experience can be found in my [CV](assets/files/curriculum_vitae.pdf).
 
-As my PhD dissertation submission approaches in September 2024, **I am seeking a postdoctoral position starting in September 2024 or January 2025. I am also looking for opportunities as a Research Assistant or Adjunct Lecturer from October 2024.**
+As my PhD dissertation submission approaches in September 2024, **I am seeking position as
+postdoctoral researcher, research assistant, or adjunct lecturer.**
 
 **Research interests:**
 - Civil-Military Relations
