@@ -3,9 +3,7 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-Your text is clear and well-structured. I've made a slight refinement for smoother flow:
-
-"I am a 4th-year PhD candidate in the <a href="https://www.tcd.ie/Political_Science/" target="_blank">Department of Political Science</a> at <a href="http://tcd.ie" target="_blank">Trinity College Dublin</a>. My research focuses on investigating the impact of conscription on gender and ethnic relations. In my dissertation, I explore the effects of gendered conscription on ethnic minority women, its implications for gender equality, and the colonial legacies associated with ethnically selective military service. I utilize both a global comparative analysis and a case study of Israel/Palestine, employing a mixed methods approach, including original interview data collected during fieldwork in the summer of 2023."
+I am a 4th-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. My research investigates the impact of conscription on gender and ethnic relations. In my dissertation, <em>Essays on the Impact of Conscription on Marginalized Groups</em>, I examine the effects of gendered conscription on ethnic minority women, its implications for gender equality, and prevailing colonial legacies associated with ethnically selective military service. Employing both a global comparative analysis and a case study, my approach incorporates mixed methods, including original interview data collected during fieldwork in Israel/Palestine in the summer of 2023.
 
 I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my research and teaching experience can be found in my [CV](assets/files/curriculum_vitae.pdf).
 
