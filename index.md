@@ -18,11 +18,11 @@ postdoctoral researcher, research assistant, or adjunct lecturer.**
 - Research Methods: Quantitative and Qualitative, Fieldwork, Interviewing
 
 ## Work in Progress
-- ODLOVÁ, Markéta. <span class="italic">The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.</span> <span class="bold">(WORK IN PROGRESS)</span>
-- ODLOVÁ, Markéta. <span class="italic">Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.</span> <span class="bold">(WORK IN PROGRESS)</span>
-- ODLOVÁ, Markéta. <span class="italic">The Impact of Ending Conscription on Gender Equality.</span> <span class="bold">(WORK IN PROGRESS)</span>
-- SAVAGE, Jesse Dillon; ODLOVÁ, Markéta; ZHANG, Tianxin. <span class="italic">Intrastate Ethnic Repression and Conflict Dynamics.</span> <span class="bold">(WORK IN PROGRESS)</span>
-- ODLOVÁ, Markéta. <span class="italic">The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.</span> <span class="bold">(WORK IN PROGRESS)</span>
+- ODLOVÁ, Markéta. *The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.* **(WORK IN PROGRESS)**
+- ODLOVÁ, Markéta. *Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.* **(WORK IN PROGRESS)**
+- ODLOVÁ, Markéta. *The Impact of Ending Conscription on Gender Equality.* **(WORK IN PROGRESS)**
+- SAVAGE, Jesse Dillon; ODLOVÁ, Markéta; ZHANG, Tianxin. *Intrastate Ethnic Repression and Conflict Dynamics.* **(WORK IN PROGRESS)**
+- ODLOVÁ, Markéta. *The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.* **(WORK IN PROGRESS)**
 
 ## Teaching Experience
 - **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**
