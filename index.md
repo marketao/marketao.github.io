@@ -10,18 +10,20 @@ I hold a MA in International Relations from <a href="http://cuni.cz" target="_bl
 As my PhD dissertation submission approaches in September 2024, **I am seeking position as
 postdoctoral researcher, research assistant, or adjunct lecturer.**
 
-**Research interests:**
-- Civil-Military Relations
+## Research Interests
 - Gender and Ethnic Relations
+- Civil-Military Relations
 - Colonial Legacies
 - Middle Eastern Politics and Societies: Israel/Palestine, Druzes
 - Research Methods: Quantitative and Qualitative, Fieldwork, Interviewing
 
-## Research Papers
-- Odlová, Markéta. "The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens" **(WORKING PAPER)**
-- Odlová, Markéta. "Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use" **(WORKING PAPER)**
-- Odlová, Markéta. "The Impact of Conscription on Women’s Citizenship: the Case of Norway and Sweden" **(WORKING PAPER)**
-- Odlová, Markéta. "The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy" **(WORKING PAPER)**
+## Work in Progress
+- ODLOVÁ, Markéta. The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli
+Circassian and Druze Citizens.
+- ODLOVÁ, Markéta. Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.
+- ODLOVÁ, Markéta. The Impact of Ending Conscription on Gender Equality.
+- SAVAGE, Jesse Dillon; ODLOVÁ, Markéta; ZHANG, Tianxin. Intrastate Ethnic Repression and Conflict Dynamics.
+- ODLOVÁ, Markéta. The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.
 
 ## Teaching Experience
 - **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**
