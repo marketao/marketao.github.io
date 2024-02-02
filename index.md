@@ -3,9 +3,11 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am a 4th year PhD candidate at the <a href="https://www.tcd.ie/Political_Science/" target="_blank">Department of Political Science</a> at <a href="http://tcd.ie" target="_blank">Trinity College Dublin</a>. My research focuses on the interaction between civil-military relations, ethnicity, gender, and colonialism. In my dissertation, <em>Essays on the Impact of Conscription on Marginalized Groups</em>, I investigate the determinants of ethnically selective conscription and explore the impact of conscription on citizenship and political and civic engagement of ethnic minorities and women. I employ both a global comparative analysis and a case study of Israel/Palestine. This involves a mixed methods approach, including original interview data I collected during fieldwork in summer of 2023.
+Your text is clear and well-structured. I've made a slight refinement for smoother flow:
 
-I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my work, research and teaching experience can be found in my [CV](assets/files/curriculum_vitae.pdf).
+"I am a 4th-year PhD candidate in the <a href="https://www.tcd.ie/Political_Science/" target="_blank">Department of Political Science</a> at <a href="http://tcd.ie" target="_blank">Trinity College Dublin</a>. My research focuses on investigating the impact of conscription on gender and ethnic relations. In my dissertation, I explore the effects of gendered conscription on ethnic minority women, its implications for gender equality, and the colonial legacies associated with ethnically selective military service. I utilize both a global comparative analysis and a case study of Israel/Palestine, employing a mixed methods approach, including original interview data collected during fieldwork in the summer of 2023."
+
+I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my research and teaching experience can be found in my [CV](assets/files/curriculum_vitae.pdf).
 
 As my PhD dissertation submission approaches in September 2024, **I am seeking position as
 postdoctoral researcher, research assistant, or adjunct lecturer.**
