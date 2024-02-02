@@ -17,7 +17,7 @@ postdoctoral researcher, research assistant, or adjunct lecturer.**
 - Middle Eastern Politics and Societies: Israel/Palestine, Druzes
 - Research Methods: Quantitative and Qualitative, Fieldwork, Interviewing
 
-## Work in Progress
+## Research Papers
 - ODLOVÁ, Markéta. *The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.* **(WORK IN PROGRESS)**
 - ODLOVÁ, Markéta. *Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.* **(WORK IN PROGRESS)**
 - ODLOVÁ, Markéta. *The Impact of Ending Conscription on Gender Equality.* **(WORK IN PROGRESS)**
