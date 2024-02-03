@@ -3,12 +3,11 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am a 4th-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. My research investigates the impact of conscription on gender and ethnic relations. In my dissertation, <em>Essays on the Impact of Conscription on Marginalized Groups</em>, I examine the effects of gendered conscription on ethnic minority women, its implications for gender equality, and prevailing colonial legacies associated with ethnically selective military service. Employing both a global comparative analysis and a case study, my approach incorporates mixed methods, including original interview data collected during fieldwork in Israel/Palestine in the summer of 2023.
+I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my dissertation <em>Essays on the Impact of Conscription on Marginalized Groups</em> I examine the impact of conscription on gender and ethnic relations. I employ a mixed methods approach, using both qualitative and quantitative methodologies. I have experience conducting fieldwork in conflict-affected regions.
 
-I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my research and teaching experience can be found in my [CV](assets/files/curriculum_vitae.pdf).
+I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my research and teaching experience can be found in my **[CV](assets/files/curriculum_vitae.pdf)**.
 
-As my PhD dissertation submission approaches in September 2024, **I am seeking position as
-postdoctoral researcher, research assistant, or adjunct lecturer.**
+As my PhD dissertation submission approaches in September 2024, **I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
 
 ## Research Interests
 - Gender and Ethnic Relations
