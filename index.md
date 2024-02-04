@@ -24,17 +24,15 @@ As my PhD dissertation submission approaches in August 2024 🎓, **I am current
 - ODLOVÁ, Markéta. *The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.* **(WORK IN PROGRESS)**
 
 ## Teaching Experience
-- **2023/2024: POU11011, POU11012 Introduction to Political Science A&B**
-  - 1st year UG module, lectured by Emanuel Coman & Liam Kneafsey, Department of Political Science, Trinity College Dublin
+- **2023/2024 & 2022/2023: POU11011, POU11012 Introduction to Political Science A&B**
+  - 1st year UG module, lectured by Liam Kneafsey & Emanuel Coman, Department of Political Science, Trinity College Dublin
   - <em>Head Teaching Assistant</em>
-- **2022/2023: POU11011, POU11012 Introduction to Political Science A&B**
-  - 1st year UG module, lectured by Liam Kneafsey, Department of Political Science, Trinity College Dublin
   - <em> Head Teaching Assistant</em> 🏆 awarded the <a href="https://twitter.com/TCD_SSP/status/1663846299651694593" target="_blank">Dermot McAleese Award</a> for outstanding commitment to teaching and learning at the School of Social Sciences and Philosophy
 - **2021/2022: POU22021, POU22022 International Relations A&B**
   - 2st year UG module, lectured by William Phelan, Department of Political Science, Trinity College Dublin
   - <em>Teaching Assistant</em>
 - **2020/2021: POU11011, POU11012 Introduction to Political Science A&B**
-  - 1st year UG module, lectured by Emanuel Coman & Liam Kneafsey, Department of Political Science, Trinity College Dublin
+  - 1st year UG module, lectured by Liam Kneafsey & Emanuel Coman, Department of Political Science, Trinity College Dublin
   - <em>Teaching Assistant</em>
 
 {% if false %}
