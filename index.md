@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my dissertation <em>Essays on the Impact of Conscription on Marginalized Groups</em> I examine the impact of conscription on gender and ethnic relations. I employ a mixed methods approach, using both qualitative and quantitative methodologies. I have experience conducting fieldwork in conflict-affected regions.
+I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my dissertation <em>Essays on the Impact of Conscription on Marginalized Groups</em> I examine the impact of conscription on gender and ethnic relations. I employ a mixed methods approach, using both qualitative and quantitative methodologies. I am experienced in interviewing and in conducting fieldwork in conflict-impacted regions.
 
 I hold a MA in International Relations from <a href="http://cuni.cz" target="_blank">Charles University in Prague</a>, and a BA in Political Science and European Studies from <a href="http://upol.cz" target="_blank">Palacký University in Olomouc</a>. More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).
 
@@ -14,7 +14,7 @@ As my PhD dissertation submission approaches in August 2024 🎓, **I am current
 - Civil-Military Relations
 - Colonial Legacies: Society, Public Space
 - Middle Eastern Politics and Societies: Israel/Palestine, Druzes
-- Research Methods: Quantitative and Qualitative, Fieldwork, Interviewing
+- Research Methods: Qualitative, Quantitative, Fieldwork, Interviewing
 
 ## Research Papers
 - ODLOVÁ, Markéta. *The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.* **(WORK IN PROGRESS)**
