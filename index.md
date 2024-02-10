@@ -11,6 +11,7 @@ As my PhD dissertation submission approaches in August 2024 🎓, **I am current
 
 ## Research Interests
 - Gender and Ethnic Relations
+- Critical Military Studies
 - Civil-Military Relations
 - Colonial Legacies: Society, Public Space
 - Middle Eastern Politics and Societies: Israel/Palestine, Druzes
