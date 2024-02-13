@@ -3,7 +3,11 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my dissertation <em>Essays on the Impact of Conscription on Marginalized Groups</em> I examine the impact of conscription on various aspects of gender and ethnic relations. I do so through employing a mixed methods approach, using various qualitative and quantitative methods. I have experience in planning and executing fieldwork in conflict-impacted regions, including conducting interviews. More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).
+I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my dissertation <em>Essays on the Impact of Conscription on Marginalized Groups</em> I examine the impact of conscription on various aspects of gender and ethnic relations. I do so through employing a mixed methods approach, using various qualitative and quantitative methods. I have experience in planning and executing fieldwork in conflict-impacted regions, including conducting interviews.
+
+With nearly four years of teaching experience, I also have almost two years of experience as Head Teaching Assistant, leading and supporting a teaching team of up to 9 TAs. This team delivers the Introduction to Political Science module at Trinity College Dublin, attended by up to 460 students. In recognition of my contributions to teaching at Trinity College Dublin, I was awarded the 2023 Dermott McAlesee Award.
+
+**More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
 As my PhD dissertation submission approaches in August 2024 🎓, **I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
 
