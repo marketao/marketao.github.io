@@ -5,7 +5,7 @@ layout: homepage
 ## Hello and welcome!
 I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my dissertation <em>Essays on the Impact of Conscription on Marginalized Groups</em> I examine the impact of conscription on various aspects of gender and ethnic relations. I do so through employing a mixed methods approach, using various qualitative and quantitative methods. I have experience in planning and executing fieldwork in conflict-impacted regions, including conducting interviews.
 
-I have accumulated almost four years of teaching experience at Trinity College Dublin. In my capacity as the Head Teaching Assistant for the past two years, I have successfully led and supported a teaching team of nine, facilitating the delivery of the Introduction to Political Science module to nearly 460 students. In acknowledgment of my contributions to teaching at Trinity College Dublin, I was awarded the 🏆 2023 Dermott McAleese Award.
+I have accumulated almost four years of teaching experience at Trinity College Dublin. In my capacity as the Head Teaching Assistant for the past two years, I have successfully led and supported a teaching team of nine, facilitating the delivery of the Introduction to Political Science module to nearly 460 students. In acknowledgment of my contributions to teaching at Trinity College Dublin, I was awarded the 🏆 <a href="https://twitter.com/TCD_SSP/status/1663846299651694593" target="_blank">2023 Dermot McAleese Award</a>.
 
 **More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
