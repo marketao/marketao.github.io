@@ -9,7 +9,7 @@ I have accumulated almost four years of teaching experience at Trinity College D
 
 **More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
-As my PhD dissertation submission approaches in August 2024 🎓, **I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
+**As my PhD dissertation submission approaches in August 2024 🎓, I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
 
 ## Research Interests
 - Gender and Ethnic Relations
