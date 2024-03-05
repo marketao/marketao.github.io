@@ -7,7 +7,7 @@ I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Sci
 
 I have accumulated almost four years of teaching experience at Trinity College Dublin. In my capacity as the Head Teaching Assistant for the past two years, I have successfully led and supported a teaching team of nine, facilitating the delivery of the Introduction to Political Science module to nearly 460 students, showcasing my strong organisational skills. In acknowledgment of my contributions to teaching at Trinity College Dublin, I was awarded the 🏆 <a href="https://twitter.com/TCD_SSP/status/1663846299651694593" target="_blank">2023 Dermot McAleese Award</a>.
 
-In addition to my academic background, I've gained valuable experience in diplomacy and social media marketing. These roles have contributed to developing strong communication skills, effective team leadership, efficient time management, and a successful track record of organising various events, including workshops and conferences.
+In addition to my academic background, I've gained valuable experience in diplomacy and social media marketing. Through these roles I have developed strong communication skills, effective team leadership, efficient time management, and a successful track record of organising events such as workshops and conferences.
 
 **More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
