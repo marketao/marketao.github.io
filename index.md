@@ -3,22 +3,26 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my dissertation <em>Essays on the Impact of Conscription on Marginalised Groups</em> I examine the impact of military recruitment policies on various aspects of gender and ethnic relations. I do so through employing a mixed methods approach, using various qualitative and quantitative methods. I am experienced in planning and executing fieldwork in conflict-impacted regions, including conducting interviews.
+I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. I hold a BA in Political Science and European Studies from <a href='https://www.upol.cz/en/' target='_blank'>Palacky University Olomouc</a> and an MA in International Relations from <a href='https://cuni.cz/UKEN-1.html' target='_blank'>Charles University Prague</a>.
 
-I have accumulated almost four years of teaching experience at Trinity College Dublin. In my capacity as the Head Teaching Assistant for the past two years, I have successfully led and supported a teaching team of nine, facilitating the delivery of the Introduction to Political Science module to nearly 460 students, showcasing my strong organisational skills. In acknowledgment of my contributions to teaching at Trinity College Dublin, I was awarded the 🏆 <a href="https://twitter.com/TCD_SSP/status/1663846299651694593" target="_blank">2023 Dermot McAleese Award</a>.
+My research intersects gender and politics, civil-military relations, and conflict studies. In my dissertation <em>Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations</em>, I approach the topic from diverse perspectives through employing a mixed methods approach, integrating both quantitative and qualitative research. I am experienced in planning and executing fieldwork in conflict-impacted regions, including conducting interviews.
 
-In addition to my academic background, I've gained valuable experience in diplomacy and social media marketing. Through these roles I have developed strong communication skills, effective team leadership, efficient time management, and a successful track record of organising events such as workshops and conferences.
+I have had nearly four years of teaching experience at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my capacity as the Head Teaching Assistant for the past two academic years, I have successfully led and supported a teaching team of nine, facilitating the delivery of the Introduction to Political Science module to 460 students, showcasing my strong organizational skills. In acknowledgment of my contributions to teaching at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>, I was awarded the 🏆 <a href="https://twitter.com/TCD_SSP/status/1663846299651694593" target="_blank">2023 Dermot McAleese Award</a>.
+
+In addition to my academic background, I've gained valuable experience in diplomacy and social media marketing. Through these roles, I have developed strong communication skills, effective team leadership, efficient time management, and a successful track record of organizing events such as workshops and conferences.
 
 **More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
 **As my PhD dissertation submission approaches in August 2024 🎓, I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
 
 ## Research Interests
-- Gender and Ethnic Relations
+- Institutional Gender dynamics
+- Intersectional inequalities
+- Gender in Conflict
 - Civil-Military Relations
 - Colonial Legacies
 - Middle Eastern Politics and Societies (Israel/Palestine, Druzes)
-- Research Methods: Qualitative, Quantitative, Fieldwork, Interviewing
+- Mixed Research Methods, Interviewing
 
 ## Research Papers
 - ODLOVÁ, Markéta. *The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.* **(WORK IN PROGRESS)**
