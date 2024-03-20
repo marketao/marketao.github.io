@@ -9,8 +9,6 @@ My research intersects gender and politics, civil-military relations, and confli
 
 I have had nearly four years of teaching experience at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my capacity as the Head Teaching Assistant for the past two years, I have successfully led and supported a teaching team of nine to facilitate the delivery of the Introduction to Political Science module to 460 students, showcasing my strong organizational skills. In acknowledgment of my contributions to teaching at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>, I was awarded the 🏆 <a href="https://twitter.com/TCD_SSP/status/1663846299651694593" target="_blank">2023 Dermot McAleese Award</a>.
 
-In addition to my academic background, I've gained valuable experience in diplomacy and social media marketing. Through these roles, I have developed strong communication skills, effective team leadership, efficient time management, and a successful track record of organizing events such as workshops and conferences.
-
 **More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
 **As my PhD dissertation submission approaches in August 2024 🎓, I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
