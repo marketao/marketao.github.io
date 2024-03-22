@@ -14,13 +14,13 @@ I have had nearly four years of teaching experience at <a href='http://tcd.ie' t
 **As my PhD dissertation submission approaches in August 2024 🎓, I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
 
 ## Research Interests
-- Intersectional inequalities
-- Institutional Gender dynamics
+- Intersectional Inequalities
+- Institutional Dynamics
 - Gender in Conflict
 - Civil-Military Relations
 - Colonial Legacies
 - Middle Eastern Politics and Societies (Israel/Palestine, Druzes)
-- Mixed Research Methods, Interviewing
+- Mixed Research Methods, Interviewing Methods
 
 ## Research Papers
 - ODLOVÁ, Markéta. *The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.* **(WORK IN PROGRESS)**
