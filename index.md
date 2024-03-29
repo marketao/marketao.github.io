@@ -3,15 +3,16 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am a final-year PhD candidate at the <a href='https://www.tcd.ie/Political_Science/' target='_blank'>Department of Political Science</a> at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. I hold a BA in Political Science and European Studies from <a href='https://www.upol.cz/en/' target='_blank'>Palacky University Olomouc</a> and an MA in International Relations from <a href='https://cuni.cz/UKEN-1.html' target='_blank'>Charles University Prague</a>.
+I am an interdisciplinary social scientist with expertise in gender and politics, ethnic and gender relations, and civil-military relations. In my research, I employ a mixed methods approach through integrating qualitative and quantitative research methods. I am experienced in conducting interviews and planning and executing fieldwork in conflict-impacted regions.
 
-My research intersects the fields of gender and politics, ethnic and gender inequality and civil-military relations. In my dissertation <em>Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations</em>, I approach the topic from diverse perspectives through employing a mixed methods approach, integrating both quantitative and qualitative research. I am experienced in conducting interviews and planning and executing fieldwork in conflict-impacted regions.
+I am currently a final-year PhD Candidate at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and European Studies from [Palacky University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html).
 
-I have had nearly four years of teaching experience at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>. In my capacity as the Head Teaching Assistant for the past two years, I have successfully led and supported a teaching team of nine to facilitate the delivery of the Introduction to Political Science module to 460 students, showcasing my strong organizational skills. In acknowledgment of my contributions to teaching at <a href='http://tcd.ie' target='_blank'>Trinity College Dublin</a>, I was awarded the 🏆 <a href="https://twitter.com/TCD_SSP/status/1663846299651694593" target="_blank">2023 Dermot McAleese Award</a>.
+I have nearly four years of teaching experience at [Trinity College Dublin](http://tcd.ie). In my capacity as the Head Teaching Assistant, I have successfully led and supported a teaching team of nine to facilitate the delivery of the Introduction to Political Science module to 460 students, showcasing my strong organisational skills. In acknowledgment of my contributions to teaching, I was awarded the 🏆 [2023 Dermot McAleese Award](https://twitter.com/TCD_SSP/status/1663846299651694593).
 
 **More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
-**As my PhD dissertation submission approaches in August 2024 🎓, I am currently seeking a position as postdoctoral researcher, research assistant, or adjunct lecturer.**
+**As the submission of my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* approaches in August 2024 🎓, I am currently seeking a position as a postdoctoral researcher or as an analyst/researcher in the public or private sector.**
+
 
 ## Research Interests
 - Intersectional Inequalities
