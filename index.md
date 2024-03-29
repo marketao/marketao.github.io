@@ -9,10 +9,9 @@ I am currently a final-year PhD Candidate at the [Department of Political Scienc
 
 I have nearly four years of teaching experience at [Trinity College Dublin](http://tcd.ie). In my capacity as the Head Teaching Assistant, I have successfully led and supported a teaching team of nine to facilitate the delivery of the Introduction to Political Science module to 460 students, showcasing my strong organisational skills. In acknowledgment of my contributions to teaching, I was awarded the 🏆 [2023 Dermot McAleese Award](https://twitter.com/TCD_SSP/status/1663846299651694593).
 
-**More detailed information on my research and teaching experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
+**More detailed information on my research, teaching and professional experience can be found in my ➡️ [CV](assets/files/curriculum_vitae.pdf).**
 
 **As the submission of my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* approaches in August 2024 🎓, I am currently seeking a position as a postdoctoral researcher or as an analyst/researcher in the public or private sector.**
-
 
 ## Research Interests
 - Intersectional Inequalities
