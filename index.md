@@ -13,12 +13,13 @@ As the submission of my PhD dissertation *Essays on the Impact of Military Recru
 
 ## Research Interests
 - Intersectional Inequalities
-- Institutional Dynamics
-- Gender in Conflict
-- Civil-Military Relations
-- Colonial Legacies
-- Middle Eastern Politics and Societies (Israel/Palestine, Druzes)
-- Mixed Research Methods, Interviewing Methods
+- Institutional Power Dynamics
+- Gender and Ethnic Dynamics
+- Gender in Civil-Military Relations
+- Post-Colonial Legacies
+- Politics of Identity in the Middle East (Israel/Palestine)
+- Mixed Research Methods
+- Interviewing Practices
 
 ## Research Papers
 - ODLOVÁ, Markéta. *The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.* **(WORK IN PROGRESS)**
