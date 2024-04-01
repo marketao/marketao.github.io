@@ -22,7 +22,7 @@ As the submission of my PhD dissertation *Essays on the Impact of Military Recru
 - Interviewing
 
 ## Research Papers
-- ODLOVÁ, Markéta. *The Effects of Gendered and Ethnicised Conscription on Political and Civic Life: The Case of Israeli Circassian and Druze Citizens.* **(WORK IN PROGRESS)**
+- ODLOVÁ, Markéta. *The Impact of Gendered and Ethnicised Conscription on Ethnic Minority Women: Interview Evidence from Israel.* **(WORK IN PROGRESS)**
 - ODLOVÁ, Markéta. *Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.* **(WORK IN PROGRESS)**
 - ODLOVÁ, Markéta. *The Impact of Ending Conscription on Gender Equality.* **(WORK IN PROGRESS)**
 - SAVAGE, Jesse Dillon; ODLOVÁ, Markéta; ZHANG, Tianxin. *Intrastate Ethnic Repression and Conflict Dynamics.* **(WORK IN PROGRESS)**
