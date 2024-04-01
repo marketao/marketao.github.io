@@ -7,9 +7,9 @@ I am an interdisciplinary social scientist with expertise in gender and politics
 
 I am currently a final-year PhD Candidate at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and European Studies from [Palacky University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html).
 
-<p>For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a>.</p>
-
 As the submission of my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* approaches in September 2024 🎓, I am currently seeking a position as a postdoctoral researcher or as an analyst/researcher in the public or private sector.
+
+<p>For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a>.</p>
 
 ## Research Interests
 - Intersectional Inequalities
