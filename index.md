@@ -9,7 +9,7 @@ I am currently a final-year PhD Candidate at the [Department of Political Scienc
 
 As the submission of my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* approaches in September 2024 🎓, I am currently seeking a position as a postdoctoral researcher or as an analyst/researcher in the public or private sector.
 
-<p>For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a>.</p>
+For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or reach out to me at <a href="mailto:odlovm@tcd.ie">odlovm@tcd.ie</a>.
 
 ## Research Interests
 - Intersectional Inequalities
