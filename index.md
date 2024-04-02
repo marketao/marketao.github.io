@@ -17,18 +17,17 @@ For further details about my research, teaching experience, and professional bac
 - Gender and Ethnic Dynamics
 - Gender in Civil-Military Relations
 - Post-Colonial Legacies
-- Politics of Identity in the Middle East (Israel/Palestine)
+- Politics of Identity in the Middle East (particularly in Israel/Palestine)
 - Mixed Research Methods
 - Interviewing
 
 ## Research Papers
-- Odlová, M. *“The Impact of Gendered and Ethnicised Conscription on Ethnic Minority Women: Interview Evidence from Israel.”* (WORK IN PROGRESS)
-- Odlová, M. *“Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.”* (WORK IN PROGRESS)
-- Odlová, M. *“The Impact of Abolishing Conscription on Gender Equality.”* (WORK IN PROGRESS)
-- Savage, J.D., Odlová, M., Zhang, T. “Intrastate Ethnic Repression and Conflict Dynamics.”* (WORK IN PROGRESS)
-- Odlová, M. *“The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.”* (WORK IN PROGRESS)
-- Odlová, M. (2019). *["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi)* [The Nation State Law: End of Israeli-Druze Friendship?]. Mezinárodní Politika, Institute of International Relations Prague.
-
+- (WORK IN PROGRESS)**Odlová**, M. *“The Impact of Gendered and Ethnicised Conscription on Ethnic Minority Women: Interview Evidence from Israel.”*
+- (WORK IN PROGRESS)**Odlová**, M. *“Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.”* 
+- (WORK IN PROGRESS)**Odlová**, M. *“The Impact of Abolishing Conscription on Gender Equality.”*
+- (WORK IN PROGRESS)Savage, J.D., **Odlová**, M., Zhang, T. *“Intrastate Ethnic Repression and Conflict Dynamics.”*
+- (WORK IN PROGRESS)**Odlová**, M. *“The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.”*
+- **Odlová**, M. (2019). *["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi)* [The Nation State Law: End of Israeli-Druze Friendship?]. Mezinárodní Politika, Institute of International Relations Prague.
 
 {% if false %}
   {% include_relative _includes/services.md %}
