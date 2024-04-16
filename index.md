@@ -24,7 +24,7 @@ For further details about my research, teaching experience, and professional bac
 ## Research Papers
 - **Odlová**, M. *“The Impact of Gendered and Ethnicised Conscription on Ethnic Minority Women: Interview Evidence from Israel.”* (IN PROGRESS)
 - **Odlová**, M. *“Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.”*  (IN PROGRESS)
-- **Odlová**, M. *“The Impact of Abolishing Conscription on Gender Equality.”* (IN PROGRESS)
+- **Odlová**, M. *“Gender Stereotypes: The Impact of Women's Integration into the Military Institutions”* (IN PROGRESS)
 - Savage, J.D., **Odlová**, M., Zhang, T. *“Intrastate Ethnic Repression and Conflict Dynamics.”* (IN PROGRESS)
 - **Odlová**, M. *“The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.”* (IN PROGRESS)
 - **Odlová**, M. (2019). *["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi)* [The Nation State Law: End of Israeli-Druze Friendship?]. Mezinárodní Politika, Institute of International Relations Prague.
