@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am an interdisciplinary social scientist with expertise in gender and politics, ethnic and gender relations, and civil-military relations. In my research, I employ a mixed methods approach through integrating qualitative and quantitative research. I am experienced in conducting interviews and planning and executing fieldwork in conflict-impacted regions. I am dedicated to conducting creative, collaborative research that generates social impact.
+I am an interdisciplinary social scientist interested in gender and ethnicity in civil-military relations and the politics of identity. In my research, I employ a mixed methods approach by integrating qualitative and quantitative research methodologies. I have experience in conducting interviews and planning and executing fieldwork in conflict-affected regions. I am dedicated to conducting creative, collaborative research that generates social impact.
 
 I am currently a final-year PhD Candidate at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and European Studies from [Palacky University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html).
 
@@ -12,12 +12,12 @@ As the submission of my PhD dissertation *Essays on the Impact of Military Recru
 For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or reach out to me at <a href="mailto:odlovm@tcd.ie">odlovm@tcd.ie</a>.
 
 ## Research Interests
+- Politics of Identity
+- Civil-military Relations 
+- Gender and Ethnic Dynamics 
 - Intersectional Inequalities
-- Institutional Power Dynamics
-- Gender and Ethnic Dynamics
-- Gender in Civil-Military Relations
 - Post-Colonial Legacies
-- Politics of Identity in the Middle East (particularly in Israel/Palestine)
+- Middle East (particularly Israel/Palestine)
 - Mixed Research Methods
 - Interviewing
 
