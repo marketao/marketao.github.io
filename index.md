@@ -5,7 +5,7 @@ layout: homepage
 ## Hello and welcome!
 I am an interdisciplinary social scientist interested in the politics of identity, civil-military relations, and citizenship, as well as civic and political engagement. In my research, I employ a mixed methods approach by integrating qualitative and quantitative research methodologies. I have experience in employing various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I am dedicated to conducting creative, collaborative and inclusive research that generates social impact.
 
-I am currently a final-year PhD Candidate at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and EU from [Palacky University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html).
+I am currently a final-year PhD Candidate at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and EU Studies from [Palacky University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html).
 
 As the submission of my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* approaches in September 2024 🎓, I am currently seeking a position as a (postdoctoral) researcher or analyst, with experience and skills adaptable to academia, government, NGOs, or the private sector.
 
