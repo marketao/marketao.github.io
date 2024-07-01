@@ -1,12 +1,13 @@
 # Basic Information 
 # can add affiliation: 
 title: Markéta Odlová
-position: Interdisciplinary Social Scientist & PhD Candidate at Trinity College Dublin
+position: Social Scientist & Researcher
+affiliation: Trinity College Dublin
 email: odlovm@tcd.ie
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Markéta Odlová, political science, PhD candidate, civil-military relations, gender, ethnicity, colonialism
+keywords: Markéta Odlová, social scientist, political scientist, researcher, PhD candidate, civil-military relations, gender, ethnicity, colonialism
 description: 
 canonical: https://marketao.github.io
 
@@ -25,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
@@ -37,7 +38,7 @@ font: "Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
