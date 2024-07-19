@@ -23,10 +23,10 @@ For further details about my research, teaching experience, and professional bac
 - Teaching Methods
 
 ## Research Papers
-- **Odlová**, M. *“The Impact of Gendered and Ethnicised Conscription on Citizenship and Civic-Political Life Ethnic Minority Women: Interview Evidence from Israel.”* (MANUSCRIPT SUBMITTED TO A JOURNAL)
-- **Odlová**, M. *“The Israeli Druze: Military Service as a Tool to Influence Domestic and Foreign Policy.”* (MANUSCRIPT AVAILABLE)
-- **Odlová**, M. *“Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use.”*  (MANUSCRIPT AVAILABLE)
-- **Odlová**, M. *“Gender Stereotypes: The Impact of Women's Integration into the Military Institutions”* (IN PROGRESS)
+- **Odlová**, M. *“Overlooked Impact of Selective Conscription: Interview Evidence from Ethnic Minority Women in Israel.”* (UNDER REVIEW)
+- **Odlová**, M. *“Strategic Military Refusal: The Case of Israeli Druzes”* (MANUSCRIPT AVAILABLE)
+- **Odlová**, M. *“Ethnic Military Recruitment Dataset: Introducing a New Dataset and Its Use”*  (MANUSCRIPT AVAILABLE)
+- **Odlová**, M. *“Equality in Uniform? Women’s Military Roles and Gender Stereotypes Among the Public”* (IN PROGRESS)
 - Savage, J.D., **Odlová**, M., Zhang, T. *“Intrastate Ethnic Repression and Conflict Dynamics.”* (IN PROGRESS)
 - **Odlová**, M. (2019). *["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi)* [The Nation State Law: End of Israeli-Druze Friendship?]. Mezinárodní Politika, Institute of International Relations Prague.
 
