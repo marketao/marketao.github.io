@@ -16,7 +16,7 @@ For further details about my research, teaching experience, and professional bac
 - Inequalities in Citizenship, Political Engagement and Participation 
 - Civil-military Relations
 - Colonial Legacies
-- Middle East (identity, society and politics in Israel/Palestine; Israeli Druzes)
+- Middle East (society and politics of identity in Israel/Palestine; Israeli Druze community)
 - Mixed Research Methods
 - Interviewing
 - Field Research
