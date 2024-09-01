@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Hello and welcome!
-I am a political scientist interested in ethnic and gender dynamics, civil-military relations, and politics of identity. In my research, I employ a mixed methods approach. I have experience in using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
+I am a Political Scientist interested in ethnic and gender dynamics, civil-military relations, and politics of identity. In my work, I employ a mixed methods approach, combining quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
 
 I am currently a final-year PhD Candidate at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), as well as significant international experience.
 
@@ -17,9 +17,7 @@ For further details about my research, teaching experience, and professional bac
 - Civil-military Relations
 - Colonial Legacies
 - Middle East (society and politics of identity in Israel/Palestine; Israeli Druze community)
-- Mixed Research Methods
-- Interviewing
-- Field Research
+- Interviewing and Field Research
 - Teaching Methods
 
 ## Research Papers
