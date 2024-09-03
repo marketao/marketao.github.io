@@ -13,10 +13,9 @@ For further details about my research, teaching experience, and professional bac
 
 ## Research Interests
 - Military and Society
-- Politics of Identity: Gender, Ethnicity, Religion, Intersectionality
-- Inequalities in Citizenship and Political Participation
+- Gender Inequality
 - Colonial Legacies and Ethnic Conflict 
-- Society and Politics of Identity in the Middle East (specific focus on minorities in Israel/Palestine)
+- Society and Politics of Identity in Israel/Palestine; Druze community
 - Quantitative Research Methods
 - Qualitative Research Methods
 - Teaching Methods
