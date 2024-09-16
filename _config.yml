@@ -5,15 +5,16 @@ position: Political Scientist & Researcher
 affiliation: Trinity College Dublin
 email: odlovm@tcd.ie
 
+title: "Markéta Odlová"
+description: "Research on military & society, gender & ethnic dynamics, and inequality."
+keywords: "military, society, gender, ethnic dynamics, research"
+canonical: "https://marketao.github.io"
+
+
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-<<<<<<< HEAD
-keywords: Markéta Odlová, social scientist, political scientist, researcher, PhD candidate, military and society, gender, ethnicity, colonialism
-description: Research on military & society, gender & ethnic dynamics, and inequality.
-=======
 keywords: Markéta Odlová, social scientist, political scientist, researcher, PhD candidate, civil-military relations, gender, ethnicity, colonialism
 description: 
->>>>>>> parent of 5c56dbf (aa)
 canonical: https://marketao.github.io
 
 # Links 
@@ -59,8 +60,4 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-<<<<<<< HEAD
   - html_source_file/
-=======
-  - html_source_file/
->>>>>>> parent of 5c56dbf (aa)
