@@ -8,8 +8,10 @@ email: odlovm@tcd.ie
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Markéta Odlová, social scientist, political scientist, researcher, PhD candidate, civil-military relations, gender, ethnicity, colonialism
-description: 
+description: Research on military & society, gender & ethnic dynamics, and inequality.
 canonical: https://marketao.github.io
+og_image: "./assets/img/page.jpg"  
+
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -55,3 +57,5 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+
