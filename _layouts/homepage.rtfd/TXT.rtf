@@ -8,7 +8,7 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs24 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \{% if site.keywords %\} \{% endif %\} \{% if site.canonical %\} \{% endif %\} \{% if site.font == "Sans Serif" %\} \{% else %\} \{% endif %\} \{% if site.auto_dark_mode %\} \{% else %\} \{% endif %\}\
+\{% if site.keywords %\} \{% endif %\} \{% if site.canonical %\} \{% endif %\} \{% if site.font == "Sans Serif" %\} \{% else %\} \{% endif %\} \{% if site.auto_dark_mode %\} \{% else %\} \{% endif %\}\
 \{% if site.avatar %\} {{\NeXTGraphic Attachment.png \width320 \height320 \appleattachmentpadding0 \appleembedtype0 \appleaqc
 }¬} \{% endif %\}
 \f1\b\fs48 \
@@ -19,10 +19,12 @@
 \f0\b0\fs24 \cf0 \{% if site.position %\} 
 \fs26\fsmilli13200 \{\{ site.position \}\}
 \fs24  \
-\{% endif %\} \{% if site.affiliation %\} {\field{\*\fldinst{HYPERLINK "file:///Users/marketaodlova/Documents/GitHub/marketao.github.io/_layouts/%7B%7B%20site.affiliation_link%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ site.affiliation \}\}}} \
+\{% endif %\} \{% if site.affiliation %\} {\field{\*\fldinst{HYPERLINK "file:///Users/marketaodlova/Documents/GitHub/marketao.github.io/_layouts/%7B%7B%20site.affiliation_link%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \{\{ site.affiliation \}\}}} \
 \{% endif %\} \{% if site.email %\} \{\{ site.email \}\} \{% endif %\} \
 \
 \{% if site.google_scholar %\} \{% endif %\} \{% if site.cv_link %\} \{% endif %\} \{% if site.github_link %\} \{% endif %\} \{% if site.linkedin %\} \{% endif %\} \{% if site.twitter %\} \{% endif %\}\
+\
+\
 \
 \
 <head>\
@@ -31,15 +33,15 @@
 \
     <!-- Open Graph Meta Tags -->\
     <meta property="og:title" content="\{\{ site.title \}\}" />\
-    <meta property="og:description" content="Mark\'e9ta Odlov\'e1\'94/>\
+    <meta property="og:description" content=\'93Rresearch on military & society, gender & ethnic dynamics, and inequality." />\
     <meta property="og:image" content="https://marketao.github.io/assets/page.jpg" />\
     <meta property="og:url" content="https://marketao.github.io" />\
 \
     <!-- Twitter Card Meta Tags -->\
     <meta name="twitter:card" content="summary_large_image" />\
     <meta name="twitter:title" content="\{\{ site.title \}\}" />\
-    <meta name="twitter:description" content="\outl0\strokewidth0 Mark\'e9ta Odlov\'e1\outl0\strokewidth0 \strokec2 " />\
-    <meta name="twitter:image" content="\outl0\strokewidth0 https://marketao.github.io/assets/page.jpg\outl0\strokewidth0 \strokec2 " />\
+    <meta name="twitter:description" content=\'93Research on military & society, gender & ethnic dynamics, and inequality." />\
+    <meta name="twitter:image" content="https://marketao.github.io/assets/page.jpg" />\
     \
     <!-- Other meta tags -->\
     \{% if site.keywords %\}\
@@ -53,11 +55,14 @@
 </head>\
 \
 \
+\
+\
+\
 \{\{ content \}\} \
 \{% if site.enable_footnote %\}\
 \pard\pardeftab720\sa240\partightenfactor0
 
-\fs20 \cf0 Powered by Jekyll and {\field{\*\fldinst{HYPERLINK "https://github.com/yaoyao-liu/minimal-light"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Minimal Light}} theme.
+\fs20 \cf0 Powered by Jekyll and {\field{\*\fldinst{HYPERLINK "https://github.com/yaoyao-liu/minimal-light"}}{\fldrslt \cf3 \ul \ulc3 Minimal Light}} theme.
 \fs24 \
 \pard\pardeftab720\partightenfactor0
 \cf0 \{% endif %\}\
