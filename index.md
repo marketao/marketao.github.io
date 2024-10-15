@@ -5,7 +5,7 @@ layout: homepage
 ## Hello and welcome!
 I am a Political Scientist interested in the interaction of military and society, and ethnic and gender dynamics and inequality. In my work, I employ a mixed methods approach, combining quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. Additionally, I bring substantial teaching experience and strong project management and communication skills. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
 
-I have recently submitted my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). My viva is scheduled for November 2024. I hold a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), as well as significant international experience.
+I have recently submitted my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). My viva is scheduled for November 2024. I hold a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), during which I spent a year studying at the University of Haifa. Alongside my academic pursuits, I have also gained valuable experience in diplomacy and the private sector.
 
 I am currently seeking a position as researcher or lecturer, with experience and skills adaptable to academia, NGOs, or the private sector.
 
@@ -21,9 +21,9 @@ For further details about my research, teaching experience, and professional bac
 - Teaching Methods
 
 ## Research Papers
-- **Odlová**, M. *“Overlooked Impact of Selective Conscription: Interview Evidence from Ethnic Minority Women in Israel”* (UNDER REVIEW)
+- **Odlová**, M. *“Overlooked Impact of Selective Conscription: Interview Evidence from Ethnic Minority Women in Israel”* (IN THE PUBLICATION PIPELINE)
+- **Odlová**, M. *“Ethnic Military Recruitment: Introducing a New Dataset”*  (IN THE PUBLICATION PIPELINE)
 - **Odlová**, M. *“Strategic Military Refusal: The Case of Israeli Druzes”* (WORKING PAPER)
-- **Odlová**, M. *“Ethnic Military Recruitment: Introducing a New Dataset”*  (WORKING PAPER)
 - **Odlová**, M. *“Equality in Uniform? Women’s Military Roles and Gender Stereotypes Among the Public”* (WORKING PAPER)
 - Savage, J.D., **Odlová**, M., Zhang, T. *“Intrastate Ethnic Repression and Conflict Dynamics.”* (WORK IN PROGRESS)
 - **Odlová**, M. (2019). *["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi) [The Nation State Law: End of Israeli-Druze Friendship?].* International Politics, Institute of International Relations Prague.
