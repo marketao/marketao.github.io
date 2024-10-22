@@ -2,12 +2,12 @@
 layout: homepage
 ---
 
-## Hello and welcome!
-I am a Political Scientist interested in the interaction of military and society, and ethnic and gender dynamics and inequality. In my work, I employ a mixed methods approach, combining quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. Additionally, I bring substantial teaching experience and strong project management and communication skills. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
+## Hello and Welcome!
+I am a Political Scientist interested in the interaction of military and society, and ethnic and gender dynamics and inequality. In my work, I employ a mixed methods approach, combining quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I have substantial teaching experience and strong project management and communication skills. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
 
 I have recently submitted my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), during which I spent a year studying at the University of Haifa. Alongside my academic pursuits, I have also gained valuable experience in diplomacy and the private sector.
 
-I am currently seeking a position as researcher or lecturer, with experience and skills adaptable to academia, NGOs, or the private sector.
+I am currently seeking a new position as researcher or lecturer, with experience and skills adaptable to academia, NGOs, or the private sector.
 
 For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or reach out to me at <a href="mailto:odlovm@tcd.ie">odlovm@tcd.ie</a>.
 
