@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## Hello and Welcome!
-I am a Political Scientist interested in the interaction of military and society, and ethnic and gender dynamics and inequality. In my work, I employ a mixed methods approach, combining quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I have substantial teaching experience and strong project management and communication skills. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
+I am a Political Scientist interested in the interaction of military and society, and ethnic and gender dynamics and inequality. In my work, I employ a mixed methods approach, combining quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
 
-I have recently submitted my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). I hold a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), during which I spent a year studying at the University of Haifa. Beyond academia, I have gained professional experience in diplomacy and the private sector.
+I have recently submitted my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). My doctoral work was funded by the Provost's PhD Project Award. I hold a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), during which I spent a year studying at the University of Haifa. Beyond academia, I have gained professional experience in diplomacy and the private sector.
 
 I am currently seeking a new position as researcher or lecturer, with experience and skills adaptable to academia, NGOs, or the private sector.
 
@@ -13,8 +13,8 @@ For further details about my research, teaching experience, and professional bac
 
 ## Research Interests
 - Military and Society
-- Gender Inequality
-- Colonial Legacies and Ethnic Conflict 
+- Gender Relations
+- Ethnic Conflict and Colonial Legacies
 - Society and Politics of Identity in Israel/Palestine; Druze community
 - Quantitative Research Methods
 - Qualitative Research Methods
