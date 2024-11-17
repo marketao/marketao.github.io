@@ -3,7 +3,8 @@ layout: homepage
 ---
 
 ## Hello and Welcome!
-I am a Political Scientist interested in the interaction of military and society, and ethnic and gender dynamics and inequality. In my work, I employ a mixed methods approach, combining quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
+I am a Political Scientist interested in the interaction of military and society, and ethnic and gender dynamics. In my work, I combine quantitative and qualitative methods. I have experience in designing and using various interviewing techniques and planning and executing fieldwork in conflict-affected regions. I am dedicated to conducting creative, collaborative and inclusive research that generates social and political impact.
+
 
 I have recently submitted my PhD dissertation *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations* at the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](http://tcd.ie). My doctoral work was funded by the Provost's PhD Project Award. I hold a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/) and an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), during which I spent a year studying at the University of Haifa. Beyond academia, I have gained professional experience in diplomacy and the private sector.
 
