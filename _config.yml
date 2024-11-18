@@ -17,7 +17,11 @@ canonical: https://marketao.github.io
 cv_link: assets/files/curriculum_vitae.pdf
 linkedin: https://www.linkedin.com/in/marketaodlova/
 twitter: https://twitter.com/MarketaOdlova/
+<<<<<<< Updated upstream
 github_link: https://bsky.app/profile/marketao.bsky.social
+=======
+bluesky : https://twitter.com/MarketaOdlova/
+>>>>>>> Stashed changes
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
