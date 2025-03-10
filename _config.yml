@@ -2,7 +2,7 @@
 # can add affiliation: 
 title: Dr. Markéta Odlová
 position: Postdoctoral Researcher
-affiliation:  Interdisciplinary Centre for Baltic Sea Region Research, University of Greifswald
+affiliation:  [IFZO, University of Greifswald](https://ifzo.uni-greifswald.de/en/)
 email: marketa.odlova@uni-greifswald.de
 
 # Search Engine Optimization (SEO)
@@ -16,7 +16,6 @@ canonical: https://marketao.github.io
 # google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
 linkedin: https://www.linkedin.com/in/marketaodlova/
-twitter: https://twitter.com/MarketaOdlova/
 github_link: https://bsky.app/profile/marketao.bsky.social
 
 # Images (e.g., your profile picture and your website's favicon) 
