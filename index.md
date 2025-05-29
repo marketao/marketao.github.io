@@ -13,11 +13,10 @@ My specialization lies in the interaction between the military and society. My w
 For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or reach out to me at <a href="mailto:marketa.odlova@uni-greifswald.de">marketa.odlova@uni-greifswald.de</a>.
 
 ## Research Specialisation
-- Military & Society Interaction
+- Civil-Military Relations
 - Conflict & Security 
-- Gender Relations 
-- Ethnic Relations
-- Israel/Palestine; Druzes 
+- Gender and Ethnicity
+- Israel/Palestine; The Druze Community in Israel
 - Baltic Sea Region
 - Quantitative Research Methods
 - Qualitative Research Methods
