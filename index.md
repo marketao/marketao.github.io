@@ -19,13 +19,15 @@ For further details about my research, teaching experience, and professional bac
 - Quantitative Research Methods
 - Qualitative Research Methods
 
-## Research Papers
-- **Odlová**, M. *“A Pilot Study on Selective Conscription Effects: Interview Evidence from Ethnic Minority Women in Israel”* (IN THE PUBLICATION PIPELINE)
-- **Odlová**, M. *“Ethnic Military Recruitment: Introducing a New Dataset”*  (IN THE PUBLICATION PIPELINE)
+## Publications
+- **Odlová**, M. (2019). *["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi) [The Nation State Law: End of Israeli-Druze Friendship?].* International Politics, Institute of International Relations Prague.
+
+## Work in Progress
+- **Odlová**, M. *“Potential Conscription Absence Implications Among Ethnic Minority Women: A Research Note”* (IN THE PUBLICATION PIPELINE)
+- **Odlová**, M., Mehrl. M. *“The Ethnic Groups Military Recruitment data”*  (IN THE PUBLICATION PIPELINE)
 - **Odlová**, M. *“Strategic Military Refusal: The Case of Israeli Druzes”* (WORKING PAPER)
 - **Odlová**, M. *“Equality in Uniform? Women’s Military Roles and Gender Stereotypes Among the Public”* (WORKING PAPER)
 - Savage, J.D., **Odlová**, M., Zhang, T. *“Intrastate Ethnic Repression and Conflict Dynamics.”* (WORK IN PROGRESS)
-- **Odlová**, M. (2019). *["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi) [The Nation State Law: End of Israeli-Druze Friendship?].* International Politics, Institute of International Relations Prague.
 
 {% if false %}
   {% include_relative _includes/services.md %}
