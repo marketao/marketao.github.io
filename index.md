@@ -4,16 +4,16 @@ layout: homepage
 
 ## Hello and Welcome!
 
-I am a Postdoctoral Researcher at the [Interdisciplinary Centre for Baltic Sea Region Research](https://ifzo.uni-greifswald.de/en/) at the University of Greifswald, as part of the [Security Architecture in the Baltic Sea Region](https://ifzo.uni-greifswald.de/en/research/fragmented-transformations/translate-to-english-sicherheitsarchitektur-im-ostseeraum/) project team. I hold a PhD in Political Science from [Trinity College Dublin](http://tcd.ie). My dissertation, *Essays on the Impact of Military Recruitment Policies on Gender and Ethnic Relations*, was funded by the Provost's PhD Project Award. I also hold an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), during which I spent a year studying at the [University of Haifa](https://uhaifa.org), and a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/). Beyond academia, I have gained professional experience in diplomacy and the private sector.
+I am a Political Scientist and Postdoctoral Researcher at the [Interdisciplinary Centre for Baltic Sea Region Research](https://ifzo.uni-greifswald.de/en/) at the University of Greifswald, where I am part of the [Security Architecture in the Baltic Sea Region](https://ifzo.uni-greifswald.de/en/research/fragmented-transformations/translate-to-english-sicherheitsarchitektur-im-ostseeraum/) project team. I hold a PhD in Political Science from [Trinity College Dublin](http://tcd.ie), an MA in International Relations from [Charles University Prague](https://cuni.cz/UKEN-1.html), and a BA in Political Science and EU Studies from [Palacký University Olomouc](https://www.upol.cz/en/). I also studied at the [University of Haifa](https://uhaifa.org). Beyond academia, I have gained professional experience in diplomacy and the private sector.
 
-My research focuses on civil-military relations. I am particularly interested in how military recruitment influences public opinion and intersects with gender and ethnic dynamics. My work combines qualitative and quantitative methods, including interviews, surveys, experiments, and time-series analysis. I have experience planning and conducting fieldwork in conflict-affected regions. I am committed to producing creative, collaborative, and inclusive research that generates meaningful social and political impact.
+My research focuses on the intersection of security, conflict, intergroup relations, and public opinion. I am particularly interested in how military and security policies interact with gender and ethnic dynamics, and how they impact public opinion. My work combines qualitative and quantitative methods, including interviews, surveys, and experimental as well as quasi-experimental approaches. I have experience in planning and conducting fieldwork in conflict-affected regions. I am committed to producing collaborative, creative, and inclusive research that generates meaningful social and political impact.
 
-For further details about my research, teaching experience, and professional background, please refer to my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or reach out to me at <a href="mailto:marketa.odlova@uni-greifswald.de">marketa.odlova@uni-greifswald.de</a>.
+For more details, please see my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or contact me at <a href="mailto:marketa.odlova@uni-greifswald.de">marketa.odlova@uni-greifswald.de</a>.
 
 ## Research Specialisation
+- Peace & Conflict 
 - Civil-Military Relations
-- Conflict & Security 
-- Gender and Ethnicity
+- Intergroup relations
 - Israel/Palestine; The Druze Community in Israel
 - Baltic Sea Region
 - Quantitative Research Methods
