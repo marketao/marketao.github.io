@@ -26,7 +26,7 @@ For more details, please see my <a href="assets/files/curriculum_vitae.pdf" targ
 **Odlová, M.** 2019. ["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi) [The Nation State Law: End of Israeli-Druze Friendship?]. *International Politics, Institute of International Relations Prague.* 
 
 ## Work in Progress
-**Odlová, M.** “A Pilot Study of Selective Conscription Effects: Interview Evidence from Ethnic Minority Women in Israel” (IN THE PUBLICATION PIPELINE)
+**Odlová, M.** “Pilot Study of Selective Conscription Effects: Interview Evidence from Ethnic Minority Women in Israel” (IN THE PUBLICATION PIPELINE)
 
 **Odlová, M.**, Banka, A. & Bussmann, M. "A Matter of Time? Estimates of Military Reinforcements Arrival and Willingness to Fight" (WORKING PAPER)
 
