@@ -35,7 +35,6 @@ For more details, please see my <a href="assets/files/curriculum_vitae.pdf" targ
 **Odlová, M.** “Equality in Uniform? Women’s Military Roles and Gender Stereotypes Among the Public” (WORKING PAPER)
 
 Savage, J.D., **Odlová, M.** & Zhang, T. *“Intrastate Ethnic Repression and Conflict Dynamics.”* (WORK IN PROGRESS)
-
 {% if false %}
   {% include_relative _includes/services.md %}
 {% endif %}
