@@ -20,18 +20,22 @@ For more details, please see my <a href="assets/files/curriculum_vitae.pdf" targ
 - Qualitative Research Methods
 
 ## Publications
-**Odlová, M.** & Mehrl, M. 2026. ["The Ethnic Groups Military Recruitment Data."](https://doi.org/10.1111/nana.70047)*Nations and Nationalism.*  
-📄 [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/nana.70047) ·
-📘 [Codebook](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0001-EGMR_codebook_anonymised.docx) ·
-📊 [Dataset](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0002-EGMR_data.csv)
+**Odlová, M.** & Mehrl, M. 2026. ["The Ethnic Groups Military Recruitment Data."](https://doi.org/10.1111/nana.70047) *Nations and Nationalism.*  
+📄 [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/nana.70047)  
+📘 [Codebook](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0001-EGMR_codebook_anonymised.docx)  
+📊 [Dataset](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0002-EGMR_data.csv)  
 
 **Odlová, M.** 2019. ["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi) [The Nation State Law: End of Israeli-Druze Friendship?]. *International Politics, Institute of International Relations Prague.* 
 
 ## Work in Progress
-**Odlová, M.** “A Pilot Study of Selective Conscription Effects: Interview Evidence from Ethnic Minority Women in Israel” (IN THE PUBLICATION PIPELINE)  
-**Odlová, M.**, Banka, A. & Bussmann, M. "A Matter of Time? Estimates of Military Reinforcements Arrival and Willingness to Fight" (WORKING PAPER)  
+**Odlová, M.** “A Pilot Study of Selective Conscription Effects: Interview Evidence from Ethnic Minority Women in Israel” (IN THE PUBLICATION PIPELINE)
+
+**Odlová, M.**, Banka, A. & Bussmann, M. "A Matter of Time? Estimates of Military Reinforcements Arrival and Willingness to Fight" (WORKING PAPER)
+
 **Odlová, M.** “Strategic Military Refusal: The Case of Israeli Druzes” (WORKING PAPER)
+
 **Odlová, M.** “Equality in Uniform? Women’s Military Roles and Gender Stereotypes Among the Public” (WORKING PAPER)
+
 Savage, J.D., **Odlová, M.** & Zhang, T. *“Intrastate Ethnic Repression and Conflict Dynamics.”* (WORK IN PROGRESS)
 
 {% if false %}
