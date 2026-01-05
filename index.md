@@ -8,7 +8,7 @@ I am a Political Scientist, currently working as Postdoctoral Researcher at the 
 
 My research focuses on the intersection of security, conflict, intergroup relations, and public opinion. I am particularly interested in how military and security policies interact with gender and ethnic dynamics and impact public opinion. My work combines qualitative and quantitative methods, including interviews, surveys, experimental and quasi-experimental approaches. I have experience in planning and conducting fieldwork in conflict-affected regions. I am committed to producing collaborative, creative, and inclusive research that generates meaningful social and political impact.
 
-For more details, please see my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or contact me at <a href="mailto:marketa.odlova@uni-greifswald.de">marketa.odlova@uni-greifswald.de</a>.
+For more details, please see my <a href="assets/files/curriculum_vitae.pdf" target="_blank">CV</a> or <a href="mailto:marketa.odlova@uni-greifswald.de">contact</a> me.
 
 ## Research Specialisation
 - Peace & Conflict 
