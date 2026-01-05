@@ -21,9 +21,7 @@ For more details, please see my <a href="assets/files/curriculum_vitae.pdf" targ
 
 ## Publications
 **Odlová, M.** & Mehrl, M. 2026. ["The Ethnic Groups Military Recruitment Data."](https://doi.org/10.1111/nana.70047) *Nations and Nationalism.*  
-📄 [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/nana.70047)  
-📘 [Codebook](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0001-EGMR_codebook_anonymised.docx)  
-📊 [Dataset](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0002-EGMR_data.csv)  
+📄 [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/nana.70047) 📘 [Codebook](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0001-EGMR_codebook_anonymised.docx) 📊 [Dataset](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fnana.70047&file=nana70047-sup-0002-EGMR_data.csv)  
 
 **Odlová, M.** 2019. ["Zákon o národním státu: Konec izraelsko-drúzského přátelství?"](https://www.iir.cz/en/zakon-o-narodnim-statu-konec-izraelsko-druzskeho-pratelstvi) [The Nation State Law: End of Israeli-Druze Friendship?]. *International Politics, Institute of International Relations Prague.* 
 
